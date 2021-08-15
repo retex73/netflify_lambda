@@ -10,6 +10,8 @@
   "keywords": [],
   "author": "",
   "netflify-docs": "https://github.com/netlify/netlify-lambda",
+  "youtube-tut": "https://www.youtube.com/watch?v=drJwMlD9Mjo",
+  "original-github": "https://github.com/bradtraversy/netlify_lambda",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
